@@ -1,0 +1,2 @@
+# weekdays
+React studies
